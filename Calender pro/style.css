@@ -1,0 +1,71 @@
+#calender{
+	width: 150px;
+	height: 180px;
+	border-color: yellow;
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	color: #fff;
+
+}
+
+#calender>p{
+	font-family: verdana,arial,sans-serif;
+	padding: 10px 0l;
+	margin: 0;
+	color: #fff;
+	text-align: center;
+
+}
+
+
+#calender-day{
+	font-size: 16px;
+
+}
+
+#calender-month-year{
+	font-size: 14px;
+	
+}
+
+#calender-date{
+	font-size: 64px;
+	padding-top: g: 10px;
+	padding-bottom: 0;
+
+	
+}
+
+#second{
+	width: 150px;
+	height: 180px;
+	border-color: yellow;
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	color: #fff;
+
+}
+
+
+#third{
+	width: 150px;
+	height: 180px;
+	border-color: yellow;
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	color: #fff;
+
+}
+
+
+#fourth{
+	width: 150px;
+	height: 180px;
+	border-color: yellow;
+	background-color: cornflowerblue;
+	border-radius: 5%;
+	color: #fff;
+
+}
+
+
